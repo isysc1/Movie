@@ -3,4 +3,4 @@
 
 技术栈：Mysql Mybatis Spring SpringMVC
 
-![image](http://github.com/isysc1/Movie/images/用户角色/下单电影票.png)
+![image](https://github.com/isysc1/Movie/blob/master/images/用户角色/下单电影票.png)
